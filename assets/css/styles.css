@@ -17,3 +17,8 @@ p a:hover {
 	color: dodgerblue;
 	border-bottom: 2px dotted dodgerblue;
 }
+
+ul.choices {
+   list-style-type: none;
+   width: 90%;
+}
