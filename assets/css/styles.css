@@ -39,3 +39,11 @@ ul.choice li a:hover {
 	color: darkkhaki;
 	background-color: #2e3d28;
 }
+img{
+   padding: 20px; 
+   border-radius: 10px 40px 5px 0;
+}
+
+img:hover {
+	background: #000; 
+}
