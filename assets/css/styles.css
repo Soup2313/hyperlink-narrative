@@ -8,9 +8,10 @@
 p a {
 	font-family:'Courier New', Courier, monospace;
 	font-size: 1.3em;
+	 text-decoration: none;
+	 font-weight: bold;
 	color: red 
-	text-decoration: none;
-	font-weight: bold;
+	
 }
 
 p a:hover {
@@ -21,4 +22,12 @@ p a:hover {
 ul.choices {
    list-style-type: none;
    width: 90%;
+}
+
+ul.choices li a {
+	color: red; 
+	text-decoration: none;
+	font-weight: bold;
+	display: block;
+	border: 4px dashed #2e3d28
 }
